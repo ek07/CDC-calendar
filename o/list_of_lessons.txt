@@ -1,0 +1,2 @@
+Session Date	Session No	Start	End	Course 	Confirm Date	Fixed Instructor
+20/May/2018	4	11:15 AM	12:05 PM	SCHOOL E-TRIAL TEST	17/May/2018	-
