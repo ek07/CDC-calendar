@@ -82,6 +82,7 @@ def main():
 
     # Parse text file containing events
     text_file_name = "Text files/list_of_lessons.txt"
+    todays_date = datetime.today().strftime('%y%m%d')
     previously_added_fn = "Text files/list_of_lessons.old"
     header, event_list = parseTextFile(text_file_name, previously_added_fn)
 
